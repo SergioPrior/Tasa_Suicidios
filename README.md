@@ -1,4 +1,4 @@
-#Tasa Suicidios
+# Tasa Suicidios
 ![imagen](Tasa_Spain_Picture.png)
 Nos enfrentamos a un desafío sin precedentes: la "pandemia silenciosa", donde la salud mental emerge como una preocupación primordial.
 
